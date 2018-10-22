@@ -1,0 +1,84 @@
+/* Paleta de cores: */
+
+.dark span {
+	color: white;
+}
+
+.light span {
+	color: black;
+}
+
+.red {background-color: #d9534f;}
+.red h1, .red h2, .red h3, .red h4, .red h5, .red i, .red span, .red label {color: white;}
+
+.red-900 {background-color: #B71C1C;}
+.red-900 h1, .red-900 h2, .red-900 h3, .red-900 h4, .red-900 h5,.red-900 i, .red-900 span, .red-900 label {color: white;}
+
+.wine {background-color: #990012;}
+.wine h1, .wine h2, .wine h3, .wine h4, .wine h5,.wine i, .wine span , .wine label {color: white;}
+
+.pink {background-color: #E91E63;}
+.pink h1, .pink h2, .pink h3, .pink h4, .pink h5,.pink i, .pink span, .pink label {color: white;}
+
+.purple{background-color: #9C27B0;}
+.purple h1, .purple h2, .purple h3, .purple h4, .purple h5,.purple i, .purple span , .purple  label{color: white;}
+
+.deep-purple {background-color: #673AB7;}
+.deep-purple h1, .deep-purple h2, .deep-purple h3, .deep-purple h4, .deep-purple h5,.deep-purple i, .deep-purple  span, .deep-purple label {color: white;}
+
+.indigo {background-color: #3F51B5;}
+.indigo h1, .indigo h2, .indigo h3, .indigo h4, .indigo h5,.indigo i, .indigo span , .indigo label{color: white;}
+
+.blue {background-color: #337ab7;}
+.blue h1, .blue h2, .blue h3, .blue h4, .blue h5,.blue i, .blue span, .blue label {color: white;}
+
+.blue-900 {background-color: #0D47A1;}
+.blue-900 h1, .blue-900 h2, .blue-900 h3, .blue-900 h4, .blue-900 h5,.blue-900 i, .blue-900 span, .blue-900 label{color: white;}
+
+.light-blue {background-color: #5bc0de;}
+.light-blue h1, .light-blue h2, .light-blue h3, .light-blue h4, .light-blue h5,.light-blue i, .light-blue span, .light-blue  label {color: white;}
+
+.cyan {background-color: #00BCD4;}
+.cyan h1, .cyan h2, .cyan h3, .cyan h4, .cyan h5,.cyan i, .cyan span , .cyan label{color: black;}
+
+.teal {background-color: #009688;}
+.teal h1, .teal h2, .teal h3, .teal h4, .teal h5,.teal i, .teal span, .teal label {color: white;}
+
+.green {background-color: #5cb85c;}
+.green h1, .green h2, .green h3, .green h4, .green h5,.green i, .green span , .green label{color: white;}
+
+.light-green {background-color: #8BC34A;}
+.light-green h1, .light-green h2, .light-green h3, .light-green h4, .light-green h5,.light-green i, .light-green span, .light-green label {color: black;}
+
+.lime {background-color: #CDDC39;}
+.lime h1, .lime h2, .lime h3, .lime h4, .lime h5,.lime i, .lime span, .lime label {color: black;}
+
+.yellow {background-color: #FFEB3B;}
+.yellow h1, .yellow h2, .yellow h3, .yellow h4, .yellow h5,.yellow i, .yellow span, .yellow  label {color: black;}
+
+.amber {background-color: #FFC107;}
+.amber h1, .amber h2, .amber h3, .amber h4, .amber h5,.amber i, .amber span, .amber label {color: black;}
+
+.orange {background-color: #f0ad4e;}
+.orange h1, .orange h2, .orange h3, .orange h4, .orange h5, .orange i, .orange span, .orange label {color: white;}
+
+.deep-orange {background-color: #FF5722;}
+.deep-orange h1, .deep-orange h2, .deep-orange h3, .deep-orange h4, .deep-orange h5,.deep-orange i, .deep-orange span, .deep-orange label {color: white;}
+
+.brown {background-color: #795548;}
+.brown h1, .brown h2, .brown h3, .brown h4, .brown h5,.brown i, .brown span, .brown label {color: white;}
+
+.grey {background-color: #9E9E9E;}
+.grey h1, .grey h2, .grey h3, .grey h4, .grey h5,.grey i, .grey span, .grey label {color: black;}
+
+.blue-grey {background-color: #607D8B;}
+.blue-grey h1, .blue-grey h2, .blue-grey h3, .blue-grey h4, .blue-grey h5,.blue-grey i, .blue-grey span, .blue-grey label {color: white;}
+
+.black {background-color: #000000;}
+.black h1, .black h2, .black h3, .black h4, .black h5,.black i, .black span, .black label {color: white;}
+
+.white {background-color: #FFFFFF;}
+.white h1, .white h2, .white h3, .white h4, .white h5,.white i, .white span, .white label {color: black;}
+
+
+
